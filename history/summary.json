@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reddit.com.ico",
     "slug": "reddit",
     "status": "up",
-    "uptime": "1.36%",
-    "uptimeDay": "1.36%",
-    "uptimeWeek": "1.36%",
-    "uptimeMonth": "1.36%",
-    "uptimeYear": "1.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-09-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
