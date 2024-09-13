@@ -2,6 +2,9 @@
 owner: mkell43 # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
+workflowSchedule:
+  uptime: "*/7 * * * *"
+
 sites:
   - name: Reddit
     # TODO: Add a User-Agent header to this check. Pretty sure that's what is causing Upptime to be blocked.
