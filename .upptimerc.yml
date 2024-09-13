@@ -4,7 +4,10 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Reddit
+    # TODO: Add a User-Agent header to this check. Pretty sure that's what is causing Upptime to be blocked.
     url: https://www.reddit.com/
+    expectedStatusCodes:
+      - 403 # At least they're responding with a non-5XX code.
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Google DNS 1
