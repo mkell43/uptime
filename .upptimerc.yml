@@ -3,19 +3,26 @@ owner: mkell43 # Your GitHub organization or username, where this repository liv
 repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Reddit
+    url: https://www.reddit.com/
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Google DNS 1
+    icon: https://www.google.com/favicon.ico
     check: "tcp-ping"
-    ipv6: true
+    url: 8.8.4.4
+    port: 53
+  - name: Google DNS 2
+    icon: https://www.google.com/favicon.ico
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
+  - name: Cloudflare DNS
+    icon: https://www.cloudflare.com/favicon.ico
+    check: "tcp-ping"
+    url: 1.1.1.1
+    port: 53
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
