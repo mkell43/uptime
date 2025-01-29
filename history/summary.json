@@ -40,10 +40,10 @@
     "url": "8.8.4.4",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google-dns-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
@@ -51,16 +51,18 @@
     "timeWeek": 4,
     "timeMonth": 3,
     "timeYear": 4,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 1
+    }
   },
   {
     "name": "Google DNS 2",
     "url": "8.8.8.8",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google-dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 5,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "Cloudflare DNS",
