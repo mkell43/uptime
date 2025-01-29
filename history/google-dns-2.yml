@@ -1,7 +1,7 @@
 url: 8.8.8.8
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-29T05:22:28.197Z
+status: up
+code: 200
+responseTime: 35
+lastUpdated: 2025-01-29T05:29:44.598Z
 startTime: 2024-09-13T00:48:16.646Z
 generator: Upptime <https://github.com/upptime/upptime>
