@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 60,
-    "timeWeek": 151,
-    "timeMonth": 161,
-    "timeYear": 155,
+    "time": 154,
+    "timeDay": 49,
+    "timeWeek": 144,
+    "timeMonth": 153,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 359,
-    "timeWeek": 389,
-    "timeMonth": 352,
-    "timeYear": 330,
+    "time": 328,
+    "timeDay": 99,
+    "timeWeek": 340,
+    "timeMonth": 344,
+    "timeYear": 328,
     "dailyMinutesDown": {}
   },
   {
@@ -42,18 +42,16 @@
     "slug": "google-dns-1",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
     "timeDay": 2,
-    "timeWeek": 4,
+    "timeWeek": 3,
     "timeMonth": 3,
     "timeYear": 4,
-    "dailyMinutesDown": {
-      "2025-01-29": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google DNS 2",
@@ -62,18 +60,16 @@
     "slug": "google-dns-2",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
     "timeDay": 19,
-    "timeWeek": 8,
+    "timeWeek": 7,
     "timeMonth": 5,
     "timeYear": 5,
-    "dailyMinutesDown": {
-      "2025-01-29": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloudflare DNS",
