@@ -76,19 +76,19 @@
     "url": "1.1.1.1",
     "icon": "https://www.cloudflare.com/favicon.ico",
     "slug": "cloudflare-dns",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 4,
     "timeDay": 2,
     "timeWeek": 5,
     "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {
-      "2025-07-14": 0
+      "2025-07-14": 30
     }
   }
 ]
